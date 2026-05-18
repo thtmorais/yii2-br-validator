@@ -9,7 +9,7 @@ use Yii;
 use yii\helpers\Json;
 
 /**
- * CpfValidator checks if the attribute value is a valid CPF.
+ * CnpjValidator checks if the attribute value is a valid CNPJ.
  *
  * @author Leandro Gehlen <leandrogehlen@gmail.com>
  * @author Wanderson Bragança <wanderson.wbc@gmail.com>
